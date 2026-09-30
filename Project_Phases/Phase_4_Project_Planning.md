@@ -25,7 +25,8 @@
 
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
-| 1 | Hisham Aatif A | Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 05 |
-| 2 | Maithreyan | Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 05 |
-| 3 | Hariprasad | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 05 |
-| 4 | Gowtham | Budget threshold alerting and smart savings recommendations engine | Business Logic & Rules | Group 05 |
+| 1 | gayathri P| Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 05 |
+| 2 | anantha jothi M | Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 05 |
+| 3 | bhavani K| Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 05 |
+| 4 | gopika A| Budget threshold alerting and smart savings recommendations engine | Business Logic & Rules | Group 05 |
+| 5 | akshaya P| Budget threshold alerting and smart savings recommendations engine | Business Logic & Rules | Group 05 |
